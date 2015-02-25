@@ -1,0 +1,9 @@
+{
+	"user"  : [
+		{
+			"firstName"	: "Discover",
+			"lastName"  : "Financial Services",
+			"email"     : "user@discover.com"
+		}
+	]
+}
